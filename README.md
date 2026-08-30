@@ -10,7 +10,7 @@
 
 # **Roshan Hacker**
 
-### Cybersecurity Researcher | Offensive Security Tools | Python Developer
+### Cybersecurity Researcher | Offensive Security Tools | Python Developer | Ethical Hacker
 
 <br>
 
@@ -71,12 +71,13 @@
 
 **&nbsp;&nbsp;&nbsp;⚔️ MSF Commander v4.0**
 
-&nbsp;&nbsp;&nbsp;Complete Offensive Security Arsenal. Auto-install, mobile friendly, 24+ payloads. The most powerful Metasploit Framework tool for penetration testers.
+&nbsp;&nbsp;&nbsp;Complete Offensive Security Arsenal for Penetration Testing. Auto-install, mobile friendly, 24+ payloads. The most powerful Metasploit Framework tool for ethical hackers and security researchers.
 
 &nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-F14E32?style=flat-square&logo=metasploit&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-2ECC71?style=flat-square&logo=terminal&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-30d158?style=flat-square)
 
 &nbsp;&nbsp;&nbsp;[**View Repository →**](https://github.com/dark-hacker-error/msf-commander)
 
@@ -150,7 +151,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A84FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Researcher;Offensive+Security+Tools;Python+Developer;Ethical+Hacker;Hack+the+Planet!&fontColor=0A84FF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A84FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Researcher;Offensive+Security+Tools;Python+Developer;Ethical+Hacker;Penetration+Tester;Hack+the+Planet!&fontColor=0A84FF" alt="Typing SVG" />
 
 <br><br>
 
